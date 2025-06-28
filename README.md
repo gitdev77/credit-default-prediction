@@ -63,7 +63,7 @@ This can help banks and lenders assess credit risk more accurately.
 ## 🧠 Author
 
 **Devansh Sharma**  
-NIT HAMIRPUR
+
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/devanshsharma28/) or GitHub
 
 
