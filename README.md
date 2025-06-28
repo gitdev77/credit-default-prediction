@@ -58,18 +58,13 @@ This can help banks and lenders assess credit risk more accurately.
 - Deploy the model as a web app using **Streamlit**
 - Perform hyperparameter tuning
 
----
+
 
 ## 🧠 Author
 
 **Devansh Sharma**  
-Feel free to connect on [LinkedIn](https://www.linkedin.com) or GitHub
+NIT HAMIRPUR
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/devanshsharma28/) or GitHub
 
----
 
-## 📌 How to Run Locally
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/credit-default-ml.git
-   cd credit-default-ml
